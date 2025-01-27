@@ -1,0 +1,14 @@
+{
+  "melody_patterns": [
+    {
+      "primary": [
+        "flute",
+        "clarinet"
+      ],
+      "secondary": [
+        "trumpet",
+        "alto_sax"
+      ]
+    }
+  ]
+}

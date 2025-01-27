@@ -1,0 +1,25 @@
+{
+  "flute": {
+    "range": {
+      "min": 60,
+      "max": 96,
+      "sweet_spot": [
+        67,
+        86
+      ]
+    },
+    "techniques": [
+      "legato",
+      "staccato",
+      "trill"
+    ],
+    "timbre_characteristics": [
+      "bright",
+      "agile"
+    ],
+    "breathing_constraints": {
+      "max_phrase_length": 8,
+      "min_rest": 0.5
+    }
+  }
+}
